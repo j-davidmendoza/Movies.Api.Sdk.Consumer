@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Movies.Api.Sdk.Consumer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55209bfc6478d8244aa9629f313d3cead5006820")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c781171bb26b634214900396c9e3d482cfea20b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Movies.Api.Sdk.Consumer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Movies.Api.Sdk.Consumer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
